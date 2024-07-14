@@ -1,7 +1,7 @@
 # 4KPages-8087PRIMER
 John F. Palmer and Stephen P.Morse "The 8087 Primer"
 
-[PDF](https://1drv.ms/b/c/ff234b6fa870c030/EYquo14VvbtHjIwwvKae7ysBFGGvuhB2vJd7iETD5Lg04A)
+[PDF](https://1drv.ms/b/s!ArSwFV5bfcDrc3pFR-XfMKgWtrk)
 
 ![](https://github.com/KilianKegel/4KPages-8087PRIMER/blob/main/images/THE8087PRIMER_000.jpg) 
 ![](https://github.com/KilianKegel/4KPages-8087PRIMER/blob/main/images/THE8087PRIMER_001.jpg) 
