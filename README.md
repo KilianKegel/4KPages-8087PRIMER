@@ -2,7 +2,7 @@
 John F. Palmer and Stephen P.Morse "The 8087 Primer"
 
 [PDF](https://1drv.ms/b/s!ArSwFV5bfcDrc3pFR-XfMKgWtrk)
-
+![](https://github.com/KilianKegel/4KPages-8087PRIMER/blob/main/images/COVERfront.jpg) 
 ![](https://github.com/KilianKegel/4KPages-8087PRIMER/blob/main/images/THE8087PRIMER_000.jpg) 
 ![](https://github.com/KilianKegel/4KPages-8087PRIMER/blob/main/images/THE8087PRIMER_001.jpg) 
 ![](https://github.com/KilianKegel/4KPages-8087PRIMER/blob/main/images/THE8087PRIMER_002.jpg) 
@@ -187,3 +187,4 @@ John F. Palmer and Stephen P.Morse "The 8087 Primer"
 ![](https://github.com/KilianKegel/4KPages-8087PRIMER/blob/main/images/THE8087PRIMER_181.jpg) 
 ![](https://github.com/KilianKegel/4KPages-8087PRIMER/blob/main/images/THE8087PRIMER_182.jpg) 
 ![](https://github.com/KilianKegel/4KPages-8087PRIMER/blob/main/images/THE8087PRIMER_183.jpg) 
+![](https://github.com/KilianKegel/4KPages-8087PRIMER/blob/main/images/COVERrear.jpg) 
